@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Juhász László
+osztály: 10/F
